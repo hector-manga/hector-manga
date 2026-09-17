@@ -1,0 +1,25 @@
+{
+  "title": "Mato Seihei no Slave",
+  "description": "قبل عقود، ظهرت في أنحاء اليابان بوابات تؤدي إلى بُعدٍ آخر خطير يُعرف باسم ماتو، \"عاصمة الشياطين\". وقد اكتسب من تناول المومو التي تنمو هناك قدراتٍ فريدة، لكن ذلك يقتصر على الفتيات وحدهن.",
+  "artist": "akahiro",
+  "author": "akahiro",
+  "cover": "https://cdn.imgchest.com/files/3308838a38ac.jpg",
+  "chapters": {
+    "002": {
+      "title": "",
+      "last_updated": "1789625367",
+      "groups": {
+        "hector": "/proxy/api/imgchest/chapter/bp45loqkv75"
+      },
+      "volume": "01"
+    },
+    "001": {
+      "title": "",
+      "last_updated": "1789625391",
+      "groups": {
+        "hector": "/proxy/api/imgchest/chapter/o24ar6jxeyl"
+      },
+      "volume": "01"
+    }
+  }
+}
