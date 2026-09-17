@@ -1,0 +1,1 @@
+Cubari manga JSON files
